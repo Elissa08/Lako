@@ -1,3 +1,19 @@
 <resources>
     <string name="app_name">Lako</string>
+    
+    
+    
+    <string name="about_us">Welcome to Lakò, your mobile platform for supporting local
+        creative sellers! At Lakò, we are dedicated to bridging the gap between talented
+        local artists and a broader audience by providing a centralized, curated e-commerce
+        space exclusively for showcasing handcrafted products. Our mission is to empower local
+        artisans, offering them the tools and resources needed to optimize sales, enhance customer
+        engagement, and gain the recognition they deserve.\n \nLakò was born out of the need to address the
+        challenges faced by local artists in connecting with potential customers. Traditional e-commerce platforms
+        often overshadow these artisans with established brands, limiting their visibility and sales opportunities.
+        Our platform is designed to eliminate this competition, creating a community-driven marketplace where local
+        talent can thrive. \n \nWith features like visually appealing profile showcases, direct messaging for inquiries,
+        a personalized explore feed, organized product categories, community chat, and promotional tools, Lakò ensures a
+        seamless and supportive experience for both sellers and buyers. Join us in celebrating Filipino culture and
+        supporting small businesses, one craft at a time.</string>
 </resources>
