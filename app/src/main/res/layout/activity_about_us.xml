@@ -12,7 +12,9 @@
         android:id="@+id/linearLayout3"
         android:layout_width="415dp"
         android:layout_height="109dp"
-        android:background="@color/darkbrown">
+        android:background="@color/darkbrown"
+        android:orientation="horizontal"
+        tools:ignore="MissingConstraints">
     </LinearLayout>
 
 
